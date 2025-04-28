@@ -51,7 +51,3 @@ The tool expects CSV files in Xsens DOT format with the following structure:
 - X-axis (Red): Forward direction
 - Y-axis (Green): Left direction
 - Z-axis (Blue): Upward direction
-
-## License
-
-MIT License 
