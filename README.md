@@ -1,4 +1,7 @@
 # IMU Visualization Tool
+<img width="1247" height="704" alt="image" src="https://github.com/user-attachments/assets/0693c39a-e13b-4f9d-af46-5cf8b74ea492" />
+
+
 
 A Python-based tool for visualizing IMU (Inertial Measurement Unit) orientation data in 3D space. This tool is specifically designed for biomechanical analysis, allowing visualization of multiple IMUs simultaneously.
 
