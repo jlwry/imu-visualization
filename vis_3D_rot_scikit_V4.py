@@ -391,10 +391,10 @@ def main():
     """
     # Create visualizer with 30 Hz display rate
     csv_files = [
-        'data/rec/LF_20250211_121711.csv',
-        'data/rec/LH_20250211_121711.csv',
-        'data/rec/LSh_20250211_121711.csv',
-        'data/rec/LT_20250211_121711.csv'
+        'data/LF_20250211_121711.csv',
+        'data/LH_20250211_121711.csv',
+        'data/LSh_20250211_121711.csv',
+        'data/LT_20250211_121711.csv'
     ]
     viz = IMUVisualizer(csv_files, plot_freq=30)
     
